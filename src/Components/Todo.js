@@ -51,8 +51,6 @@ function Todo() {
                             onSelcet={deleteItem}
                         />
                     })}
-
-
                 </div>
             </div>
         </div>
