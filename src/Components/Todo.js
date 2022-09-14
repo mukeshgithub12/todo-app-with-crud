@@ -34,7 +34,7 @@ function Todo() {
                             <h4 className='text-center'>My Todo Todo</h4>
                         </div>
                     </div>
-                    <form onSubmit={submitHandler}>
+                    <form onSubmit={submitHandler}> 
                         <div className="row justify-content-between text-white p-2">
                             <div className="form-group flex-fill mb-2 col-9">
                                 <input id="todo-input" type="text" className="form-control" value={task} onChange={onChangeHandler} />
