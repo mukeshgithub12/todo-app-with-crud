@@ -1,3 +1,6 @@
-import Home from '../Components/containers/Home';
 
-export default Home;
+import Home from '../redux/Home'
+
+ 
+
+export default Home
